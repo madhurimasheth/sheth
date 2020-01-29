@@ -1,1 +1,1 @@
-Utils = new Index
+Utils = new Index.js
